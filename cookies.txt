@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mines.lacasadasorte.com.br	TRUE	/	FALSE	1999999999	PHPSESSID	b4mm0fbk3h43a4fgc80lfq6orq
+
